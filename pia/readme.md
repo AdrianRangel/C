@@ -33,3 +33,16 @@ And finally, emphasizing that the above steps are performed first, you can final
 Bibliography:
 
 https://www.youtube.com/watch?v=2WZDhXXIJFQ
+
+Self-evaluation:
+
+1- complexity: 1
+
+2- functionality: 3
+
+3- code: 3
+
+4- storage: 2
+
+5- documentation:2
+
