@@ -56,5 +56,5 @@ Self-evaluation:
 
 5- documentation: 2 (The report may have some grammatical errors and the video has an acceptable quality)
 
-Final grade: 10 points
+Final grade: 11 points
 
