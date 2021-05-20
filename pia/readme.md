@@ -52,7 +52,7 @@ Self-evaluation:
 
 3- code: 3 (I cleaned up the code and tidied it up as best I could and even added a layout to make it more presentable)
 
-4- storage: 1 (use file creation in conjunction with stdio, stdlib and string libraries)
+4- storage: 2 (use file creation in conjunction with stdio, stdlib and string libraries)
 
 5- documentation: 2 (The report may have some grammatical errors and the video has an acceptable quality)
 
