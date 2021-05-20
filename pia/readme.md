@@ -31,6 +31,7 @@ If you want to verify using the program after you have first performed the above
 And finally, emphasizing that the above steps are performed first, you can finally delete a note that you have added in error with the "delete note" option.
 
 Report:
+
 First I put forward my idea of what my project would be which was what I presented in class, my primary idea was to add name, day, month, year. start time and end time of the event, also that the program identifies what time it is being scheduled whether it is spring, summer, fall or winter.
 
 I started with my code making the structure of this that I started with a switch and the presentation of the menu, my idea of the design changed due to the limited functions that I know.
