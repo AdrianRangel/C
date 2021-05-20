@@ -23,4 +23,5 @@ If you want to verify using the program after you have first performed the above
 And finally, emphasizing that the above steps are performed first, you can finally delete a note that you have added in error with the "delete note" option. 
 
 Bibliography:
+
 https://www.youtube.com/watch?v=2WZDhXXIJFQ
