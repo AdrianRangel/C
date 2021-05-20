@@ -14,13 +14,15 @@ This project consists of an agenda with the following functions:
 
 Steps to follow for the correct operation of the program:
 
-1- First step: you will use the option "add note", follow the instructions that the program indicates together with the example in which you have to write the date in format of day, month and year finally you will press enter.
+1- First step: you are going to copy the code with the name of schedule.c, then copy the code of functions.h, once you have both of them you execute the code of schedule.c so that the program can start.
 
-2- Second step: you will choose the option of "exit", this so that the changes in the notes that you have created and modified are saved and finish their process, later you will verify the folder in which you have the program to check that your .txt files are there with their name.
+2- Second step: you will use the option "add note", follow the instructions that the program indicates together with the example in which you have to write the date in format of day, month and year finally you will press enter.
 
-2- Third step: you will choose the option "modify a note", so you can add what you will do that day, either a birthday or even a list of things to do as mentioned above.
+3- Third step: you will choose the option of "exit", this so that the changes in the notes that you have created and modified are saved and finish their process, later you will verify the folder in which you have the program to check that your .txt files are there with their name.
 
-4- Four step: you will select the "exit" option again so that the changes when using the "modify a note" will be saved later and also check that when you open the file the note has been added correctly, then you can exit the program if you like.
+4- Four step: you will choose the option "modify a note", so you can add what you will do that day, either a birthday or even a list of things to do as mentioned above.
+
+5- Five step: you will select the "exit" option again so that the changes when using the "modify a note" will be saved later and also check that when you open the file the note has been added correctly, then you can exit the program if you like.
 
 Optional steps:
 
